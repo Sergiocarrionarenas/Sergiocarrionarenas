@@ -14,6 +14,22 @@
   - Inglés
   - ~~Sistemas operativos~~
   - ~~itinerario personal para la empleabilidad~~
+- Conozco las siguientes herramientas
+  - Java
+  - HTML
+  - CSS
+  - Python
+- En entornos de desarrollo usamos:
+  - Visual Studio Code
+  - Java
+- En bases de datos usamos:
+  -Mysql
+- En programación usamos:
+  -IntelliJ
+  - Java
+- Mis preferencias en cuanto a dirección de desarrollo son
+   -Frontend
+   -Bases de datos 
 
 <!---
 Sergiocarrionarenas/Sergiocarrionarenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
