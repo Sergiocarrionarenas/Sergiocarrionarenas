@@ -28,8 +28,8 @@
   -IntelliJ
   - Java
 - Mis preferencias en cuanto a dirección de desarrollo son
-   -Frontend
-   -Bases de datos 
+  - Frontend
+  - Bases de datos 
 
 <!---
 Sergiocarrionarenas/Sergiocarrionarenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
